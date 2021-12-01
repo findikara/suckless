@@ -1,0 +1,2 @@
+# suckless
+Suck less
